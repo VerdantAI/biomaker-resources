@@ -45,3 +45,7 @@ Things on my mind I'd probably pay someone to build. Somone who won't cut off th
 ### Autonomous Dolly
 
 Let's take a scooter engine, dress it up like a Jawa sandcrawler, give it self-guiding lidar and wrap it in scoby.  C'mon! What are we waiting for? I'll use it to load my amplifiers on stage.
+
+### BioLuminescent Clothing
+
+How about the jacket from the cover of Cyberpunk 2077 made of synth leather and getting its glow from marine algae! I miss the smell of kelp.
