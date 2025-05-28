@@ -13,7 +13,8 @@ I know, I know. You can make something out of wood and be doing "bio-maker". But
 There are a number of materials of interest.
 
 * [Mycelium](https://en.wikipedia.org/wiki/Mycelium-based_materials) is the corpus of fungus. Mushrooms are fungal fruits. Mycelium has been turned into a number of different products, including my own hideious pencil cup I made in an [Open Fung](https://openfung.org/) workshop.
-* [Scoby Leather](https://www.colorado.edu/ecenter/2021/11/04/biomaterials-what-scoby-leather) is made from kambucha. 
+* [Scoby Leather](https://www.colorado.edu/ecenter/2021/11/04/biomaterials-what-scoby-leather) is made from kambucha.
+  * [Cool example](https://www.pratt.edu/work/scoby-project-2/)
 * [Bioplastic](https://naturelab.risd.edu/discover/biomaterials-you-can-make-at-home/) seems pretty awesome!
 * 
 
